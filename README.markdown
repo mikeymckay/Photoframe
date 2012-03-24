@@ -14,4 +14,4 @@ If anybody actually wants to use this, get in touch, I'm happy to help
 
 Here's a screenshot:
 
-![](http://)
+![](https://github.com/mikeymckay/Photoframe/raw/master/Screenshot.png)
