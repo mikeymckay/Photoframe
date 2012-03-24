@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/chromium-browser --disable-breakpad --kiosk http://localhost/Photoframe/index.html http://grooveshark.com
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Photoframe
+Name=Photoframe
+Comment[en_US]=
+Comment=
